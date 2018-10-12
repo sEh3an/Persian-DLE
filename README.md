@@ -1,5 +1,6 @@
 # Persian Language for Datalife Engine
-Translate .lng files in datalife engine to Persian (Farsi)
+Translate .lng files in Datalife Engine to Persian (Farsi)
+
 <div dir="rtl">
 > در این پروژه تمامی فایل های lng  موجود در پوشه ی language دیتالایف انجین به فارسی ترجمه و تصحیح شده است.
 
